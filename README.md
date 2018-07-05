@@ -1,6 +1,14 @@
 BentNormalTest
 ==============
 
+![image](https://i.imgur.com/ARIboHw.png)
+![image](https://i.imgur.com/rzNyoWO.png)
+
+![image](https://i.imgur.com/ovAx6bp.png)
+![image](https://i.imgur.com/tCULb4B.png)
+
+(left: without occlusion, right: specular occlusion enabled)
+
 This is a test project for the "specular occlusion from bent normal"
 functionality that is available in Unity HDRP (High Definition Render Pipeline).
 
